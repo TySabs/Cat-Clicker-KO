@@ -1,0 +1,47 @@
+#title {
+  border-bottom: 2px solid #5bc0de;
+  padding-bottom: 6px;
+}
+
+.cat-btn {
+  background-color: #428bca;
+  color: #f9f9f9;
+  width: 82px;
+  padding: 16px 0;
+  border-radius: 10%;
+  margin: 4px 24px 20px 00;
+}
+
+.cat-btn:hover {
+  background-color: #5bc0de;
+  cursor: pointer;
+}
+
+#cat-level, #cat-name, #click-counter {
+  display: inline;
+  margin: 0 36px 12px 0;
+}
+
+#click-counter {
+  border: 2px solid #5bc0de;
+  border-radius: 10%;
+  padding: 0 10px;
+}
+
+#cat-level {
+  font-size: 1.5em;
+  color: #428bca;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  margin-right: 18px;
+}
+
+#cat-img {
+  max-width: 600px;
+  display: block;
+  box-shadow: 5px 5px 3px 3px #D7D9E0;
+  margin-top: 10px;
+}
+
+#cat-img:hover {
+  cursor: pointer;
+}
