@@ -1,11 +1,11 @@
-# Cat Clicker Premium Pro App
+# Cat Clicker Knockout App
 ### Everyone Loves Cat Apps... Right?
 
 ## Getting Started
-* To view offline ```git clone https://github.com/TySabs/Cat-Clicker-Pro.git```
+* To view offline ```git clone https://github.com/TySabs/Cat-Clicker-KO.git```
 and open up ```index.html``` in a browser
 
-* View Cat Clicker Online: [Cat Clicker Premium Pro](https://tysabs.github.io/Cat-Clicker-Pro/)
+* View Cat Clicker Online: [Cat Clicker Knockout](https://tysabs.github.io/Cat-Clicker-KO/)
 
 ## How It Works
 * The user can choose to display five different cat pictures
